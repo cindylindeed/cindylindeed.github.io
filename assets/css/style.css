@@ -17,14 +17,14 @@
 
 
 ::-moz-selection {
-    background: #f2c2c9;
-    color: #a4003a;
+    background: #4a4a4a;
+    color: #ffffff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #4a4a4a;
+    color: #ffffff;
     text-shadow: none;
 }
 
@@ -69,9 +69,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #4a4a4a;
+  color: #4a4a4a;
 }
 
+.navbar {
+	background-color: #ffffff;
+}
 
 .navbar-brand {
 	font-weight: 700;
@@ -82,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
-	background-color: transparent;
+	/*background-color: transparent;*/
 	border-color: transparent;
 }
 
@@ -102,12 +105,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap {
 	background: url(../img/back.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
+	margin-top: 0px;
+	padding-top: 170px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 550px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -198,8 +201,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
+	margin-top: 0px;
+	padding-top: 0px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
