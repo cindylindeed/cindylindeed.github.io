@@ -1,0 +1,33 @@
+baseURL = 'https://cindylindeed.github.io/'
+languageCode = 'en-us'
+title = 'Cindy Lin'
+theme = 'anatole'
+
+[params]
+title = "Cindy Lin"
+author = "Cindy Lin"
+description = "she/her"
+profilePicture = "images/prof.jpg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/cinlin/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/cindylindeed/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/cindylindeed/"
+
+[menu]
+
+  [[menu.main]]
+  name = "about"
+  identifier = "about"
+  weight = 100
+  url = "/"
