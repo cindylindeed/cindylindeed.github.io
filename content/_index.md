@@ -4,9 +4,8 @@ date = 2023-11-07T23:33:40-08:00
 draft = false
 +++
 
-I am currently a software engineer on Google’s cryptography team working
-primarily on [Tink](https://developers.google.com/tink), a multi-language, open
-source library that provides cryptographic APIs that are secure and hard(er) to misuse.
+I help Google use cryptography correctly and contribute to
+[Tink](https://developers.google.com/tink), an open source cryptography library.
 
 Previously, I worked on
 * [Trillian](https://github.com/google/trillian), a cryptographically verifiable
@@ -30,9 +29,8 @@ the [University of California, San Francisco](https://www.ucsf.edu/).
 ### Miscellany
 
 At the moment, I am (slowly) working through a master's degree in Theology and
-Literature at the [Graduate Theological Union](https://www.gtu.edu/), focusing
-on polyphony and aesthetics in the traditions of Dostoevsky, Bakhtin, and
-Kierkegaard.
+Literature at the [Graduate Theological Union](https://www.gtu.edu/),
+concentrating on Kierkegaard and Dostoevsky.
 
-I enjoy trail running (also slowly) and reading (in addition to the above,
-Borges and Proust are some other favorites).
+I enjoy trail running (also slowly) and reading (Borges and Proust are some
+other favorites).
