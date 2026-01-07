@@ -7,7 +7,7 @@ theme = 'anatole'
 title = "Cindy Lin"
 author = "Cindy Lin"
 description = "she/her"
-profilePicture = "images/prof.jpg"
+profilePicture = "images/prof.jpeg"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
