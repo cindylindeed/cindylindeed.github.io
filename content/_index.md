@@ -15,4 +15,4 @@ I am an organizer for the [Open Source Cryptography Workshop](https://opensource
 
 ### Education
 
-I obtained my bachelor's and master's degrees in Computer Science at [Stanford University](https://www.stanford.edu/), where I did research in bioinformatics at the [Butte](https://buttelab.ucsf.edu/) and [Sirota](https://sirotalab.ucsf.edu/) Labs at the [University of California, San Francisco](https://www.ucsf.edu/). I also obtained a master's degree in Theology at the [Graduate Theological Union](https://www.gtu.edu/), concentrating on Kierkegaard's ethics and use of literary polyphony.
+I obtained bachelor's and master's degrees in Computer Science at [Stanford University](https://www.stanford.edu/), during which I did research in bioinformatics at the [Butte](https://bakarinstitute.ucsf.edu/people-at-bakar/atul) and [Sirota](https://sirotalab.ucsf.edu/) Labs at the [University of California, San Francisco](https://www.ucsf.edu/). I also obtained a master's degree in Theology at the [Graduate Theological Union](https://www.gtu.edu/), concentrating on Kierkegaard's ethics and use of [literary polyphony](https://en.wikipedia.org/wiki/Polyphony_(literature)).
