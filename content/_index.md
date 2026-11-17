@@ -4,7 +4,7 @@ date = 2025-01-30T23:33:40-08:00
 draft = false
 +++
 
-I am a cryptography engineer who designs secure products and infrastructure for Google and contributes to Tink, an open source cryptography library.
+I am a cryptography engineer who designs secure products and infrastructure for Google and contributes to [Tink](https://github.com/tink-crypto), an open source cryptography library.
 
 Previously, I worked on
 * [Trillian](https://github.com/google/trillian), a cryptographically verifiable data store that underpins [Certificate Transparency](https://datatracker.ietf.org/doc/html/rfc6962), and related concepts like [Gossip Protocols](https://doi.org/10.48550/arXiv.2011.04551),
